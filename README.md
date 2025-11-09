@@ -34,7 +34,7 @@ This page focuses on the economic return of an education, comparing cost versus 
 * Program-Level ROI: Program analysis reveals that the Trade Apprenticeship (Apprenticeship level, Easy Difficulty) is highly competitive, offering an average starting salary up to $76,693, closely rivaling the top Graduate programs like Advanced Elemental Sorcery (up to $77,580). This suggests vocational paths offer comparable financial returns to higher degrees.
 
 
-### 3. Student Life & Vibe Check Page (Fit Analysis)
+### 3. Student Life & Vibe Check Page 
 
 This page quantifies non-academic metrics that define the campus experience:
 
