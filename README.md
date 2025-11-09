@@ -1,4 +1,4 @@
-# Student-Dataviz-Contest-Fabric-Data-Days-PowerBI
+# Microsoft Fabric Data Days Student Data Visualization Contest
 
 <img width="1088" height="609" alt="Screenshot 2025-11-08 at 6 39 51 PM" src="https://github.com/user-attachments/assets/17418be9-0f92-448b-9e4a-2a1423f816e0" />
 
